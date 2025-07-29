@@ -7,4 +7,4 @@ This repository explores how trade size affects temporary price slippage in high
 - ✅ Empirical observations across time
 - ✅ Optimization-based execution strategies
 
-👉 Full technical write-up with math is available [here](./impact_modeling.pdf)
+👉 Full technical write-up with math is available [here](./writeup.pdf)
